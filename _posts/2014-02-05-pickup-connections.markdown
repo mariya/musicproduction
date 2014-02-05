@@ -24,7 +24,7 @@ categories: tutorials
           <div class="tab-content">
             <div class="tab-pane fade in active" id="equipment-required">
               <ul>
-                <li>an electric guitar or bass guitar</li>
+                <li>an electric guitar or electric bass guitar</li>
                 <li>an <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.junodownload.com%2Fplus%2Fbest-audio-interfaces-for-home-studios%2F&sa=D&sntz=1&usg=AFQjCNHhkLSBsNCmjPb_IiFb9NRVe7syeA">audio interface</a></li>
                 <li>a computer</li>
                 <li>¼ inch TS cable(s)</li>
@@ -78,7 +78,7 @@ categories: tutorials
         <section id="connection">
           <h3>
             Connecting a Guitar
-            <small class="">...or a mic!</small>
+            <small class="info">...or a mic!</small>
           </h3>
           <div class="panel-group" id="connection">
             <div class="panel panel-default">

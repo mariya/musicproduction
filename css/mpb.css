@@ -4,12 +4,18 @@ html {
 
 body {
   /*background: transparent url('images/brickwall.png') top left repeat;*/
-  font-family: 'quicksandregular', Arial, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+  
   /* background-color: #FDF9ED;*/
   color: #1F1C1C;
   margin: auto;
   width: 1150px;
   padding: 30px;
+}
+
+body p, body li {
+  font-size: 1.2em;
+  line-height: 1.6em;
 }
 
 body a, body a:hover {
@@ -95,7 +101,9 @@ h1, h2 {
   font-family: 'quicksandregular', Arial, sans-serif;
 }
 
-
+h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
 
 #methods {
   clear: both;
@@ -176,7 +184,7 @@ h2.subtitle {
   margin: 30px 30px 0 150px;
   height: 200px;
   line-height: 1.5em;
-  width: 600px;
+  width: 580px;
 }
 
 span.icon {
