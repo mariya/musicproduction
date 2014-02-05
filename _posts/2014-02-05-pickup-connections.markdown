@@ -377,7 +377,7 @@ categories: tutorials
               </a>
             </h4>
           </div>
-          <div id="methods-direct-guitar-to-audio-interface-recording-with-direct-box" class="panel-collapse collapse">
+          <div id="methods-direct-guitar-to-audio-interface-recording-with-direct-box" class="panel-collapse collapse in">
             <div class="panel-body">
               <section>
                 <h5>Fast Facts</h5>
@@ -388,7 +388,7 @@ categories: tutorials
                   <div class="use-if">
                     <span class="highlight">Use if:</span>
                     <ul>
-                      <li>you don’t have an amplifier<li>
+                      <li>you don’t have an amplifier</li>
                       <li>your audio interface doesn’t have an instrument input</li>
                     </ul>
                   </div>
@@ -406,7 +406,7 @@ categories: tutorials
               </section>
               <section class="how">
                 <h5>How</h5>
-                <p>Here, you plug the guitar into the direct box with a TS cable, and the direct box into the audio interface with an XLR cable.</p>
+                <p>Plug the guitar into the direct box with a TS cable, and the direct box into the audio interface with an XLR cable.</p>
               </section>
               <section class="tips">
                 <h5>Tips</h5>
