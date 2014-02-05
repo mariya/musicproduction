@@ -177,7 +177,7 @@ categories: tutorials
                 <h5>Fast Facts</h5>
                 <div class="fast-facts">
                   <div class="recommended">
-                    <span class="highlight">Recommended:</span>[thumbs down]
+                    <span class="highlight">Recommended:</span><span class="not-recommended">☓</span>
                   </div>
                   <div class="use-if">
                     <span class="highlight">Use if:</span>
@@ -190,8 +190,8 @@ categories: tutorials
                     <span class="highlight">You will need:</span>
                     <ul>
                       <li>guitar</li>
-                      <li>audio interface with an Instrument input</li>
-                      <li>¼ inch TS Cable</li>
+                      <li>audio interface with an instrument input</li>
+                      <li>¼ inch TS cable</li>
                     </ul>
                   </div>
                 </div>
@@ -199,18 +199,19 @@ categories: tutorials
               <section class="how">
                 <h5>How</h5>
                 <p>In this simple setup, you plug the guitar directly into the audio interface’s instrument input with a TS cable.</p>
+                <img src="/images/method1.png" alt="Direct Guitar to Audio Interface Recording" title="Direct Guitar to Audio Interface Recording">
               </section>
               <section class="tips">
                 <h5>Tips</h5>
-                <p class="warning">WARNING! This method is only possible if your audio interface one of the following inputs:
+                <p class="warning"><span class="warning">⚠</span>This method is only possible if your audio interface one of the following inputs:
                   <ul>
                     <li>Instrument input</li>
                     <li>Direct input</li>
-                    <li>Hi-Z Input</li>
-                    <li>High Impedance Input</li>
+                    <li>Hi-Z input</li>
+                    <li>High impedance input</li>
                   </ul>
                 </p>
-                <p class="con">Cons: Latency. With this setup, the guitar can only be heard through the computer’s speakers. So there’s going to be a slight delay before you hear what you play. Distracting!</p>
+                <p class="con"><span class="con">☹</span>Latency. With this setup, the guitar can only be heard through the computer’s speakers. So there’s going to be a slight delay before you hear what you play. Distracting!</p>
               </section>
             </div>
           </div>
@@ -281,7 +282,7 @@ categories: tutorials
                 <h5>Fast Facts</h5>
                 <div class="fast-facts">
                   <div class="recommended">
-                    <span class="highlight">Recommended:</span>[thumbs up]
+                    <span class="highlight">Recommended:</span><span class="yes-recommended">☑</span>
                   </div>
                   <div class="use-if">
                     <span class="highlight">Use if:</span>you have an amplifier with a line out
@@ -307,9 +308,9 @@ categories: tutorials
                 </p>
                 <p class="pro">PRO! Some of the trademark “amplifier” sound gets carried into the final recording.
                 </p>
-                <p class="warning">WARNING! This method is only possible if your amplifier has a Line Out
+                <p class="warning"><span class="warning">⚠</span>This method is only possible if your amplifier has a Line Out
                 </p>
-                <p class="warning">WARNING! Never connect the audio interface to the amplifier’s speaker outputs!
+                <p class="warning"><span class="warning">⚠</span>Never connect the audio interface to the amplifier’s speaker outputs!
                 </p>
               </section>
             </div>
@@ -329,7 +330,7 @@ categories: tutorials
                 <h5>Fast Facts</h5>
                 <div class="fast-facts">
                   <div class="recommended">
-                    <span class="highlight">Recommended:</span>[thumbs up]
+                    <span class="highlight">Recommended:</span><span class="yes-recommended">☑</span>
                   </div>
                   <div class="use-if">
                     <span class="highlight">Use if:</span>your amplifier has no line out
@@ -379,7 +380,7 @@ categories: tutorials
                 <h5>Fast Facts</h5>
                 <div class="fast-facts">
                   <div class="recommended">
-                    <span class="highlight">Recommended:</span>[thumbs down]
+                    <span class="highlight">Recommended:</span><span class="not-recommended">☓</span>
                   </div>
                   <div class="use-if">
                     <span class="highlight">Use if:</span>
@@ -406,7 +407,7 @@ categories: tutorials
               </section>
               <section class="tips">
                 <h5>Tips</h5>
-                <p class="con">CON! Latency. See <a href="#methods-direct-guitar-to-audio-interface-recording">Direct Guitar to Audio Interface Recording</a>.
+                <p class="con"><span class="con">☹</span>Latency. See <a href="#methods-direct-guitar-to-audio-interface-recording">Direct Guitar to Audio Interface Recording</a>.
                 </p>
                 <p class="pro">PRO! Unlike direct recording without a DI box, this method offers the option to use the <strong>balanced</strong> XLR cable, offering better quality if you need long cables.
                 </p>
@@ -428,7 +429,7 @@ categories: tutorials
                 <h5>Fast Facts</h5>
                 <div class="fast-facts">
                   <div class="recommended">
-                    <span class="highlight">Recommended:</span>[thumbs up]
+                    <span class="highlight">Recommended:</span><span class="yes-recommended">☑</span>
                   </div>
                   <div class="use-if">
                     <span class="highlight">Use if:</span>you want to be able to choose between the two different kinds of recordings

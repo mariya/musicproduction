@@ -110,7 +110,9 @@ h3, h4, h5, h6 {
 }
 
 #methods section {
-  border: 1px solid gray;
+  border: 1px solid #eee;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
   padding: 15px;
   width: 275px;
   float: left;
@@ -189,4 +191,36 @@ h2.subtitle {
 
 span.icon {
   font-size: 3em;
+}
+
+#methods h2 {
+  font-size: 3.25em;
+  float: left;
+  margin: 50px 0;
+}
+
+h5 {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.fast-facts .highlight {
+  font-weight: bold;
+  padding-right: 10px;
+  font-size: 1.2em;
+}
+
+.fast-facts > div {
+  margin: 15px 0;
+}
+
+.not-recommended, .yes-recommended, span.warning, span.con {
+  font-size: 1.5em;
+  line-height: 1.6em;
+  padding-right: 10px;
+}
+
+.how img {
+  display: block;
+  margin: 20px auto;
 }
