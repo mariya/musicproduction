@@ -134,7 +134,6 @@ categories: tutorials
               <div id="connection-levels" class="panel-collapse collapse">
                 <div class="panel-body">
                   <p>Play a sample and adjust the levels.</p>
-                  <p class="warning">Guitars with <strong>passive pickups</strong> tend to have a low level, so the input gain may need to be higher than for a microphone. If the guitar has <strong>active pickups</strong>, however, then its level may be high.</p>
                 </div>
               </div>
             </div>
@@ -154,6 +153,7 @@ categories: tutorials
             </div>
           </div>
         </section>
+        <p class="info"><span class="icon">★</span>Guitars with <strong>passive pickups</strong> tend to have a low level, so the input gain may need to be higher than for a microphone. If the guitar has <strong>active pickups</strong>, however, then its level may be high.</p>
       </div>
       <div class="clear"></div>
     </section>
