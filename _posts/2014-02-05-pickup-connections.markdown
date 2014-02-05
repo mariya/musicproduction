@@ -230,7 +230,7 @@ categories: tutorials
                 <h5>Fast Facts</h5>
                 <div class="fast-facts">
                   <div class="recommended">
-                    <span class="highlight">Recommended:</span>Sometimes
+                    <span class="highlight">Recommended:</span><span class="warning">⚠</span>
                   </div>
                   <div class="use-if">
                     <span class="highlight">Use if:</span>
@@ -259,11 +259,11 @@ categories: tutorials
               </section>
               <section class="tips">
                 <h5>Tips</h5>
-                <p class="pro">Now you can <strong>monitor</strong> your playing in real-time.
+                <p class="pro"><span class="pro">☺</span>With this method, you can <strong>monitor</strong> your playing in real-time.
                 </p>
-                <p class="pro">The sound of the amplifier is part of the recording, adding a "live" feeling. Rock on!
+                <p class="pro"><span class="pro">☺</span>The sound of the amplifier is part of the recording, adding a "live" feeling. Rock on!
                 </p>
-                <p class="warning">Recording with a microphone will also record the sounds around you. In addition to noise and <strong>feedback</strong> - the speakers echoing back at you - remember that your room has its own “sound”. So if you’re recording at in a less-than-ideal home studio, this may not be the method for you.
+                <p class="warning"><span class="warning">⚠</span>Recording with a microphone will also record the sounds around you. In addition to noise and <strong>feedback</strong> - the speakers echoing back at you - remember that your room has its own "sound". So if you’re recording at in a less-than-ideal home studio, this may not be the method for you.
                 </p>
               </section>
             </div>
@@ -305,9 +305,9 @@ categories: tutorials
               </section>
               <section class="tips">
                 <h5>Tips</h5>
-                <p class="pro">PRO! No latency! With the amplifier, you immediately hear the music you’re playing.
+                <p class="pro"><span class="pro">☺</span>No latency! With the amplifier, you immediately hear the music you’re playing.
                 </p>
-                <p class="pro">PRO! Some of the trademark “amplifier” sound gets carried into the final recording.
+                <p class="pro"><span class="pro">☺</span>Some of the trademark “amplifier” sound gets carried into the final recording.
                 </p>
                 <p class="warning"><span class="warning">⚠</span>This method is only possible if your amplifier has a Line Out
                 </p>
@@ -355,11 +355,11 @@ categories: tutorials
               </section>
               <section class="tips">
                 <h5>Tips</h5>
-                <p class="pro">PRO! Listen to your music’s playback in real time.
+                <p class="pro"><span class="pro">☺</span>Listen to your music’s playback in real time.
                 </p>
-                <p class="pro">PRO! You record a clear signal, without noise.
+                <p class="pro"><span class="pro">☺</span>You record a clear signal, without noise.
                 </p>
-                <p class="pro">PRO! Your amplifier does not need a line out, and your audio interface does not need an instrument in.
+                <p class="pro"><span class="pro">☺</span>Your amplifier does not need a line out, and your audio interface does not need an instrument in.
                 </p>
                 <p class="warning">NOTE! XLR cables are what is known as balanced cables. If you have a large studio and need long cables, it’s better to use a shorter TS cable and a longer XLR cable.
                 </p>
@@ -410,7 +410,7 @@ categories: tutorials
                 <h5>Tips</h5>
                 <p class="con"><span class="con">☹</span>Latency. See <a href="#methods-direct-guitar-to-audio-interface-recording">Direct Guitar to Audio Interface Recording</a>.
                 </p>
-                <p class="pro">PRO! Unlike direct recording without a DI box, this method offers the option to use the <strong>balanced</strong> XLR cable, offering better quality if you need long cables.
+                <p class="pro"><span class="pro">☺</span>Unlike direct recording without a DI box, this method offers the option to use the <strong>balanced</strong> XLR cable, offering better quality if you need long cables.
                 </p>
               </section>
             </div>
@@ -454,7 +454,7 @@ categories: tutorials
               </section>
               <section class="tips">
                 <h5>Tips</h5>
-                <p class="pro">PRO! Pick which style you like best - direct or indirect - after you’re done recording. Best of both worlds!
+                <p class="pro"><span class="pro">☺</span>Pick which style you like best - direct or indirect - after you’re done recording. Best of both worlds!
                 </p>
               </section>
             </div>

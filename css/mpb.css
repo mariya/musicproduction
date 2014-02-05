@@ -214,7 +214,7 @@ h5 {
   margin: 15px 0;
 }
 
-.not-recommended, .yes-recommended, span.warning, span.con {
+.not-recommended, .yes-recommended, span.warning, span.con, span.pro {
   font-size: 1.5em;
   line-height: 1.6em;
   padding-right: 10px;
