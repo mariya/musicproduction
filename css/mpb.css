@@ -29,21 +29,24 @@ header .logo {
 }
 
 header .about {
+  font-size: 1.2em;
   background: transparent url('images/splash.png') top left no-repeat;
   width: 187px;
   height: 178px;
-  position: absolute;
-  top: 0;
-  z-index: 10;
   opacity: 0.7;
   float: right;
-  right: 15%;
+  position: relative;
+  margin-top: -350px;
+  margin-right: -100px;
+  z-index: 10;
 }
 
 header .about a {
   color: white;
   display: block;
-  margin: 90px 30px;
+  margin: 80px 40px;
+  width: 50px;
+  text-align: center;
 }
 
 footer .logo {
