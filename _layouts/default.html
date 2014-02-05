@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }} | {{ site.name }}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Our core competence is standards-compliant, Agile development of web applications.">
+    <!-- Bootstrap -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/css/fonts/captureit_regular_macroman/stylesheet.css" rel="stylesheet" type="text/css" charset="utf-8" />
+    <link href="/css/fonts/quicksand_regular/stylesheet.css" rel="stylesheet" type="text/css" charset="utf-8" />
+    <!--<link href='http://fonts.googleapis.com/css?family=Nixie+One|Pathway+Gothic+One|Karla:400|&subset=latin,latin-ext' rel='stylesheet' type='text/css'>-->
+
+    <link href="/css/mpb.css" rel="stylesheet" media="screen">
+    <!--<link href='http://fonts.googleapis.com/css?family=Nixie+One|Pathway+Gothic+One|Karla:400|&subset=latin,latin-ext' rel='stylesheet' type='text/css'>-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="/js/html5shiv.js"></script>
+      <script src="/js/respond.min.js"></script>
+    <![endif]-->
+
+    <!--<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">-->
+  </head>
+  <body>
+    <header>
+      <a href="#about">About Me</a>
+      <div class="logo">Basic Music Production</div>
+    </header>
+    {{ content }}
+    <section id="about">
+      <h2>About Me</h2>
+      <p>I’m Mariya Lysenkova. I’m a programmer and writer based in Stockholm, Sweden. I’m new to music production, and I'm very excited about learning!</p>
+      <p>I’ve put together these lessons - and this site - as part of the <a href="https://www.coursera.org/course/musicproduction">Introduction to Music Production MOOC</a> from the <a href="https://www.coursera.org/berklee">Berklee College of Music</a>. Please send feedback to my first name dot last name at gmail.com. Thanks for reading!</p>
+    </section>
+    <footer>
+      <div class="logo">Basic Music Production</div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-45978593-2', 'basicmusicproduction.com');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>
