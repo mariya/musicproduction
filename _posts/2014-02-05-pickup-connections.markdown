@@ -171,7 +171,7 @@ categories: tutorials
               </a>
             </h4>
           </div>
-          <div id="methods-direct-guitar-to-audio-interface-recording" class="panel-collapse collapse in">
+          <div id="methods-direct-guitar-to-audio-interface-recording" class="panel-collapse collapse">
             <div class="panel-body">
               <section>
                 <h5>Fast Facts</h5>
@@ -224,7 +224,7 @@ categories: tutorials
               </a>
             </h4>
           </div>
-          <div id="methods-indirect-recording-with-amplifier-and-mic" class="panel-collapse collapse">
+          <div id="methods-indirect-recording-with-amplifier-and-mic" class="panel-collapse collapse in">
             <div class="panel-body">
               <section>
                 <h5>Fast Facts</h5>
@@ -246,7 +246,7 @@ categories: tutorials
                       <li>¼ inch TS Cable</li>
                       <li>amplifier</li>
                       <li>microphone</li>
-                      <li>XLR cabl</li>
+                      <li>XLR cable</li>
                       <li>audio interface</li>
                     </ul>
                   </div>
@@ -255,6 +255,7 @@ categories: tutorials
               <section class="how">
                 <h5>How</h5>
                 <p>Plug the guitar into the amp with a TS cable, plug the mic into the audio interface with an XLR cable, and put the mic in front of the amp.</p>
+                <img src="/images/method2.png" alt="Indirect Recording with Amplifier and Mic" title="Indirect Recording with Amplifier and Mic">
               </section>
               <section class="tips">
                 <h5>Tips</h5>
