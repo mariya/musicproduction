@@ -1,0 +1,32 @@
+body {
+  font-family: 'quicksandregular', Arial, sans-serif;
+  background-color: #FDF9ED;
+  color: #1F1C1C;
+  margin: auto;
+  width: 1024px;
+}
+
+.logo {
+  font-family: 'capture_itregular', Arial, sans-serif;
+  font-size: 4em;
+  margin: auto;
+}
+
+footer .logo {
+  font-size: 2em;
+}
+
+h1, h2 {
+  font-family: 'quicksandregular', Arial, sans-serif;
+}
+
+#basics section {
+  float: left;
+  height: 480px;
+  margin-right: 30px;
+  width: 300px;
+}
+
+#methods {
+  clear: both;
+}
