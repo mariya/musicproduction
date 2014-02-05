@@ -32,10 +32,17 @@ h1, h2 {
 }
 
 #methods section {
-  width: 200px;
+  border: 1px solid gray;
+  padding: 15px;
+  width: 275px;
   float: left;
+  margin-right: 15px;
 }
 
 #methods .how {
-  width: 400px;
+  width: 410px;
+}
+
+#methods .tips {
+  margin-right: 0;
 }

@@ -195,7 +195,7 @@ categories: tutorials
                 <h5>How</h5>
                 <p>In this simple setup, you plug the guitar directly into the audio interface’s instrument input with a TS cable.</p>
               </section>
-              <section>
+              <section class="tips">
                 <h5>Tips</h5>
                 <p class="warning">WARNING! This method is only possible if your audio interface one of the following inputs:
                   <ul>
@@ -250,7 +250,7 @@ categories: tutorials
                 <h5>How</h5>
                 <p>Plug the guitar into the amp with a TS cable, plug the mic into the audio interface with an XLR cable, and put the mic in front of the amp.</p>
               </section>
-              <section>
+              <section class="tips">
                 <h5>Tips</h5>
                 <p class="pro">Now you can <strong>monitor</strong> your playing in real-time.
                 </p>
@@ -296,7 +296,7 @@ categories: tutorials
                 <h5>How</h5>
                 <p>Here you connect the guitar to the amplifier, and the amplifier’s line out to the audio interface.</p>
               </section>
-              <section>
+              <section class="tips">
                 <h5>Tips</h5>
                 <p class="pro">PRO! No latency! With the amplifier, you immediately hear the music you’re playing.
                 </p>
@@ -346,7 +346,7 @@ categories: tutorials
                 <h5>How</h5>
                 <p>Here, you connect the guitar to the <strong>direct box</strong> with a TS cable. The direct box then connects to the amplifier with another TS cable, and to the audio interface with an XLR cable. The direct box converts the ¼ inch cable to XLR, and also does <strong>impedance matching</strong>.</p>
               </section>
-              <section>
+              <section class="tips">
                 <h5>Tips</h5>
                 <p class="pro">PRO! Listen to your music’s playback in real time.
                 </p>
@@ -399,7 +399,7 @@ categories: tutorials
                 <h5>How</h5>
                 <p>Here, you plug the guitar into the direct box with a TS cable, and the direct box into the audio interface with an XLR cable.</p>
               </section>
-              <section>
+              <section class="tips">
                 <h5>Tips</h5>
                 <p class="con">CON! Latency. See <a href="#methods-direct-guitar-to-audio-interface-recording">Direct Guitar to Audio Interface Recording</a>.
                 </p>
@@ -445,7 +445,7 @@ categories: tutorials
                 <h5>How</h5>
                 <p>Here you get the option of recording two different signals in parallel.</p><p>Plug the guitar into the direct box and the direct box into the amplifier, using two TS cables. Then, use an XLR cable to connect the direct box to the audio interface. Finally, place a microphone in front of the amplifier and connect it to the audio interface with another XLR cable.</p><p>Voila! You are recording both through the direct box and through the microphone.</p>
               </section>
-              <section>
+              <section class="tips">
                 <h5>Tips</h5>
                 <p class="pro">PRO! Pick which style you like best - direct or indirect - after you’re done recording. Best of both worlds!
                 </p>
