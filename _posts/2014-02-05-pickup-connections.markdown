@@ -262,6 +262,197 @@ categories: tutorials
             </div>
           </div>
         </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#methods" href="#methods-direct-recording-with-amplifier">
+                Direct Recording with Amplifier
+              </a>
+            </h4>
+          </div>
+          <div id="methods-direct-recording-with-amplifier" class="panel-collapse collapse">
+            <div class="panel-body">
+              <section>
+                <h5>Fast Facts</h5>
+                <div class="fast-facts">
+                  <div class="recommended">
+                    <span class="highlight">Recommended:</span>[thumbs up]
+                  </div>
+                  <div class="use-if">
+                    <span class="highlight">Use if:</span>you have an amplifier with a line out
+                  </div>
+                  <div class="equipment">
+                    <span class="highlight">You will need:</span>
+                    <ul>
+                      <li>guitar</li>
+                      <li>two ¼ inch TS cables</li>
+                      <li>amplifier with a Line Out</li>
+                      <li>audio interface</li>
+                    </ul>
+                  </div>
+                </div>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <p>Here you connect the guitar to the amplifier, and the amplifier’s line out to the audio interface.</p>
+              </section>
+              <section>
+                <h5>Tips</h5>
+                <p class="pro">PRO! No latency! With the amplifier, you immediately hear the music you’re playing.
+                </p>
+                <p class="pro">PRO! Some of the trademark “amplifier” sound gets carried into the final recording.
+                </p>
+                <p class="warning">WARNING! This method is only possible if your amplifier has a Line Out
+                </p>
+                <p class="warning">WARNING! Never connect the audio interface to the amplifier’s speaker outputs!
+                </p>
+              </section>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#methods" href="#methods-direct-recording-with-amplifier-and-direct-box">
+                Direct Recording with Amplifier and Direct Box
+              </a>
+            </h4>
+          </div>
+          <div id="methods-direct-recording-with-amplifier-and-direct-box" class="panel-collapse collapse">
+            <div class="panel-body">
+              <section>
+                <h5>Fast Facts</h5>
+                <div class="fast-facts">
+                  <div class="recommended">
+                    <span class="highlight">Recommended:</span>[thumbs up]
+                  </div>
+                  <div class="use-if">
+                    <span class="highlight">Use if:</span>your amplifier has no line out
+                  </div>
+                  <div class="equipment">
+                    <span class="highlight">You will need:</span>
+                    <ul>
+                      <li>guitar</li>
+                      <li>two ¼ inch TS cables</li>
+                      <li>DI box</li>
+                      <li>amplifier</li>
+                      <li>XLR cable</li>
+                      <li>audio interface</li>
+                    </ul>
+                  </div>
+                </div>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <p>Here, you connect the guitar to the <strong>direct box</strong> with a TS cable. The direct box then connects to the amplifier with another TS cable, and to the audio interface with an XLR cable. The direct box converts the ¼ inch cable to XLR, and also does <strong>impedance matching</strong>.</p>
+              </section>
+              <section>
+                <h5>Tips</h5>
+                <p class="pro">PRO! Listen to your music’s playback in real time.
+                </p>
+                <p class="pro">PRO! You record a clear signal, without noise.
+                </p>
+                <p class="pro">PRO! Your amplifier does not need a line out, and your audio interface does not need an instrument in.
+                </p>
+                <p class="warning">NOTE! XLR cables are what is known as balanced cables. If you have a large studio and need long cables, it’s better to use a shorter TS cable and a longer XLR cable.
+                </p>
+              </section>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#methods" href="#methods-direct-guitar-to-audio-interface-recording-with-direct-box">
+                Direct Guitar to Audio Interface Recording with Direct Box
+              </a>
+            </h4>
+          </div>
+          <div id="methods-direct-guitar-to-audio-interface-recording-with-direct-box" class="panel-collapse collapse">
+            <div class="panel-body">
+              <section>
+                <h5>Fast Facts</h5>
+                <div class="fast-facts">
+                  <div class="recommended">
+                    <span class="highlight">Recommended:</span>[thumbs down]
+                  </div>
+                  <div class="use-if">
+                    <span class="highlight">Use if:</span>
+                    <ul>
+                      <li>you don’t have an amplifier<li>
+                      <li>your audio interface doesn’t have an instrument input</li>
+                    </ul>
+                  </div>
+                  <div class="equipment">
+                    <span class="highlight">You will need:</span>
+                    <ul>
+                      <li>guitar</li>
+                      <li>¼ inch TS cable</li>
+                      <li>DI box</li>
+                      <li>XLR cable</li>
+                      <li>audio interface</li>
+                    </ul>
+                  </div>
+                </div>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <p>Here, you plug the guitar into the direct box with a TS cable, and the direct box into the audio interface with an XLR cable.</p>
+              </section>
+              <section>
+                <h5>Tips</h5>
+                <p class="con">CON! Latency. See <a href="#methods-direct-guitar-to-audio-interface-recording">Direct Guitar to Audio Interface Recording</a>.
+                </p>
+                <p class="pro">PRO! Unlike direct recording without a DI box, this method offers the option to use the <strong>balanced</strong> XLR cable, offering better quality if you need long cables.
+                </p>
+              </section>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#methods" href="#methods-combination-direct-and-indirect-recording">
+                Combination Direct and Indirect Recording
+              </a>
+            </h4>
+          </div>
+          <div id="methods-combination-direct-and-indirect-recording" class="panel-collapse collapse">
+            <div class="panel-body">
+              <section>
+                <h5>Fast Facts</h5>
+                <div class="fast-facts">
+                  <div class="recommended">
+                    <span class="highlight">Recommended:</span>[thumbs up]
+                  </div>
+                  <div class="use-if">
+                    <span class="highlight">Use if:</span>you want to be able to choose between the two different kinds of recordings
+                  </div>
+                  <div class="equipment">
+                    <span class="highlight">You will need:</span>
+                    <ul>
+                      <li>guitar</li>
+                      <li>two ¼ inch TS cables</li>
+                      <li>DI box</li>
+                      <li>Two XLR cables</li>
+                      <li>audio interface</li>
+                      <li>microphone</li>
+                    </ul>
+                  </div>
+                </div>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <p>Here you get the option of recording two different signals in parallel.</p><p>Plug the guitar into the direct box and the direct box into the amplifier, using two TS cables. Then, use an XLR cable to connect the direct box to the audio interface. Finally, place a microphone in front of the amplifier and connect it to the audio interface with another XLR cable.</p><p>Voila! You are recording both through the direct box and through the microphone.</p>
+              </section>
+              <section>
+                <h5>Tips</h5>
+                <p class="pro">PRO! Pick which style you like best - direct or indirect - after you’re done recording. Best of both worlds!
+                </p>
+              </section>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   </article>
