@@ -1,15 +1,49 @@
+html {
+  background: transparent url('images/brickwall.png') top left repeat;
+}
+
 body {
+  /*background: transparent url('images/brickwall.png') top left repeat;*/
   font-family: 'quicksandregular', Arial, sans-serif;
-  background-color: #FDF9ED;
+  /* background-color: #FDF9ED;*/
   color: #1F1C1C;
   margin: auto;
-  width: 1024px;
+  width: 1150px;
+  padding: 30px;
 }
 
 .logo {
   font-family: 'capture_itregular', Arial, sans-serif;
-  font-size: 4em;
   margin: auto;
+  text-align: center;
+}
+
+.logo a {
+  color: #1F1C1C;
+  text-decoration: none;
+}
+
+header .logo {
+  font-size: 6em;
+  margin: 100px auto;
+}
+
+header .about {
+  background: transparent url('images/splash.png') top left no-repeat;
+  width: 187px;
+  height: 178px;
+  position: absolute;
+  top: 0;
+  z-index: 10;
+  opacity: 0.7;
+  float: right;
+  right: 15%;
+}
+
+header .about a {
+  color: white;
+  display: block;
+  margin: 90px 30px;
 }
 
 footer .logo {
