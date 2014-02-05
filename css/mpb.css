@@ -189,7 +189,7 @@ h2.subtitle {
   width: 580px;
 }
 
-span.icon {
+#basics span.icon {
   font-size: 3em;
 }
 
@@ -214,7 +214,7 @@ h5 {
   margin: 15px 0;
 }
 
-.not-recommended, .yes-recommended, span.warning, span.con, span.pro {
+.not-recommended, .yes-recommended, span.warning, span.con, span.pro, span.info {
   font-size: 1.5em;
   line-height: 1.6em;
   padding-right: 10px;
@@ -223,4 +223,8 @@ h5 {
 .how img {
   display: block;
   margin: 20px auto;
+}
+
+.use-if p {
+  display: inline;
 }

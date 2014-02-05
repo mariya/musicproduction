@@ -224,7 +224,7 @@ categories: tutorials
               </a>
             </h4>
           </div>
-          <div id="methods-indirect-recording-with-amplifier-and-mic" class="panel-collapse collapse in">
+          <div id="methods-indirect-recording-with-amplifier-and-mic" class="panel-collapse collapse">
             <div class="panel-body">
               <section>
                 <h5>Fast Facts</h5>
@@ -277,7 +277,7 @@ categories: tutorials
               </a>
             </h4>
           </div>
-          <div id="methods-direct-recording-with-amplifier" class="panel-collapse collapse">
+          <div id="methods-direct-recording-with-amplifier" class="panel-collapse collapse in">
             <div class="panel-body">
               <section>
                 <h5>Fast Facts</h5>
@@ -286,7 +286,7 @@ categories: tutorials
                     <span class="highlight">Recommended:</span><span class="yes-recommended">☑</span>
                   </div>
                   <div class="use-if">
-                    <span class="highlight">Use if:</span>you have an amplifier with a line out
+                    <span class="highlight">Use if:</span><p>you have an amplifier with a line out</p>
                   </div>
                   <div class="equipment">
                     <span class="highlight">You will need:</span>
@@ -301,15 +301,16 @@ categories: tutorials
               </section>
               <section class="how">
                 <h5>How</h5>
-                <p>Here you connect the guitar to the amplifier, and the amplifier’s line out to the audio interface.</p>
+                <p>Connect the guitar to the amplifier, and the amplifier’s line out to the audio interface.</p>
+                <img src="/images/method3.png" alt="Direct Recording with Amplifier" title="Direct Recording with Amplifier">
               </section>
               <section class="tips">
                 <h5>Tips</h5>
                 <p class="pro"><span class="pro">☺</span>No latency! With the amplifier, you immediately hear the music you’re playing.
                 </p>
-                <p class="pro"><span class="pro">☺</span>Some of the trademark “amplifier” sound gets carried into the final recording.
+                <p class="pro"><span class="pro">☺</span>Some of the trademark "amplifier" sound gets carried into the final recording. Rock on!
                 </p>
-                <p class="warning"><span class="warning">⚠</span>This method is only possible if your amplifier has a Line Out
+                <p class="warning"><span class="warning">⚠</span>This method is only possible if your amplifier has a Line Out.
                 </p>
                 <p class="warning"><span class="warning">⚠</span>Never connect the audio interface to the amplifier’s speaker outputs!
                 </p>
@@ -334,7 +335,7 @@ categories: tutorials
                     <span class="highlight">Recommended:</span><span class="yes-recommended">☑</span>
                   </div>
                   <div class="use-if">
-                    <span class="highlight">Use if:</span>your amplifier has no line out
+                    <span class="highlight">Use if:</span><br /><p>your amplifier has no Line Out</p>
                   </div>
                   <div class="equipment">
                     <span class="highlight">You will need:</span>
@@ -351,17 +352,18 @@ categories: tutorials
               </section>
               <section class="how">
                 <h5>How</h5>
-                <p>Here, you connect the guitar to the <strong>direct box</strong> with a TS cable. The direct box then connects to the amplifier with another TS cable, and to the audio interface with an XLR cable. The direct box converts the ¼ inch cable to XLR, and also does <strong>impedance matching</strong>.</p>
+                <p>Connect the guitar to the <strong>direct box</strong> with a TS cable. The direct box then connects to the amplifier with another TS cable, and to the audio interface with an XLR cable.</p>
+                <img src="/images/method4.png" alt="Direct Recording with Amplifier and Direct Box" title="Direct Recording with Amplifier and Direct Box">
               </section>
               <section class="tips">
                 <h5>Tips</h5>
-                <p class="pro"><span class="pro">☺</span>Listen to your music’s playback in real time.
-                </p>
-                <p class="pro"><span class="pro">☺</span>You record a clear signal, without noise.
+                <p class="pro"><span class="pro">☺</span>Listen to your music’s playback in real time, and record a clear signal, without noise.
                 </p>
                 <p class="pro"><span class="pro">☺</span>Your amplifier does not need a line out, and your audio interface does not need an instrument in.
                 </p>
-                <p class="warning">NOTE! XLR cables are what is known as balanced cables. If you have a large studio and need long cables, it’s better to use a shorter TS cable and a longer XLR cable.
+                <p class="info"><span class="warning">⚠</span>XLR cables are <strong>balanced</strong>. If you have a large studio and need long cables, it’s better to use a shorter TS cable and a longer XLR cable.
+                </p>
+                <p class="info"><span class="info">★</span>In addition to converting the ¼ inch cable to XLR, the direct box also does <strong>impedance matching</strong>.
                 </p>
               </section>
             </div>
