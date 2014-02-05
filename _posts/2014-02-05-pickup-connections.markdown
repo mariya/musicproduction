@@ -210,6 +210,58 @@ categories: tutorials
             </div>
           </div>
         </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#methods" href="#methods-indirect-recording-with-amplifier-and-mic">
+                Indirect Recording with Amplifier and Mic
+              </a>
+            </h4>
+          </div>
+          <div id="methods-indirect-recording-with-amplifier-and-mic" class="panel-collapse collapse">
+            <div class="panel-body">
+              <section>
+                <h5>Fast Facts</h5>
+                <div class="fast-facts">
+                  <div class="recommended">
+                    <span class="highlight">Recommended:</span>Sometimes
+                  </div>
+                  <div class="use-if">
+                    <span class="highlight">Use if:</span>
+                    <ul>
+                      <li>your amplifier does not have a line out</li>
+                      <li>you want your recording to sound like the room you’re in</li>
+                    </ul>
+                  </div>
+                  <div class="equipment">
+                    <span class="highlight">You will need:</span>
+                    <ul>
+                      <li>guitar</li>
+                      <li>¼ inch TS Cable</li>
+                      <li>amplifier</li>
+                      <li>microphone</li>
+                      <li>XLR cabl</li>
+                      <li>audio interface</li>
+                    </ul>
+                  </div>
+                </div>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <p>Plug the guitar into the amp with a TS cable, plug the mic into the audio interface with an XLR cable, and put the mic in front of the amp.</p>
+              </section>
+              <section>
+                <h5>Tips</h5>
+                <p class="pro">Now you can <strong>monitor</strong> your playing in real-time.
+                </p>
+                <p class="pro">The sound of the amplifier is part of the recording, adding a "live" feeling. Rock on!
+                </p>
+                <p class="warning">Recording with a microphone will also record the sounds around you. In addition to noise and <strong>feedback</strong> - the speakers echoing back at you - remember that your room has its own “sound”. So if you’re recording at in a less-than-ideal home studio, this may not be the method for you.
+                </p>
+              </section>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   </article>
