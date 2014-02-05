@@ -30,3 +30,12 @@ h1, h2 {
 #methods {
   clear: both;
 }
+
+#methods section {
+  width: 200px;
+  float: left;
+}
+
+#methods .how {
+  width: 400px;
+}

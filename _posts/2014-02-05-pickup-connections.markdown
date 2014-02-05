@@ -154,9 +154,63 @@ categories: tutorials
     </section>
     <section id="methods">
       <h2>
-        Hooking it All Up
+        Hook it All Up
         <small>Or, Recording Methods</small>
       </h2>
+      <div class="panel-group" id="methods">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#methods" href="#methods-direct-guitar-to-audio-interface-recording">
+                Direct Guitar to Audio Interface Recording
+              </a>
+            </h4>
+          </div>
+          <div id="methods-direct-guitar-to-audio-interface-recording" class="panel-collapse collapse in">
+            <div class="panel-body">
+              <section>
+                <h5>Fast Facts</h5>
+                <div class="fast-facts">
+                  <div class="recommended">
+                    <span class="highlight">Recommended:</span>[thumbs down]
+                  </div>
+                  <div class="use-if">
+                    <span class="highlight">Use if:</span>
+                    <ul>
+                      <li>you’ve got an audio interface with an instrument input</li>
+                      <li>you do not have an amplifier</li>
+                    </ul>
+                  </div>
+                  <div class="equipment">
+                    <span class="highlight">You will need:</span>
+                    <ul>
+                      <li>guitar</li>
+                      <li>audio interface with an Instrument input</li>
+                      <li>¼ inch TS Cable</li>
+                    </ul>
+                  </div>
+                </div>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <p>In this simple setup, you plug the guitar directly into the audio interface’s instrument input with a TS cable.</p>
+              </section>
+              <section>
+                <h5>Tips</h5>
+                <p class="warning">WARNING! This method is only possible if your audio interface one of the following inputs:
+                  <ul>
+                    <li>Instrument input</li>
+                    <li>Direct input</li>
+                    <li>Hi-Z Input</li>
+                    <li>High Impedance Input</li>
+                  </ul>
+                </p>
+                <p class="con">Cons: Latency. With this setup, the guitar can only be heard through the computer’s speakers. So there’s going to be a slight delay before you hear what you play. Distracting!</p>
+              </section>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
   </article>
 </section>
