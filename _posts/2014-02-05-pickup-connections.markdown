@@ -70,7 +70,7 @@ extra_css:
               </div>
               <div id="faq-audio-interface" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>Computers don’t understand electrical signals. An audio interface <strong>translates</strong> them into <strong>binary signals</strong> that the computer understands.</p>
+                  <p>Computers don’t understand electrical signals. An audio interface <strong>translates</strong> them into <strong>binary signals</strong>.</p>
                   <p>Before recording guitar, you should be familiar with your <strong>audio interface</strong>, its <strong>gain settings</strong> and how to set <strong>levels</strong>.</p>
                 </div>
               </div>
@@ -446,9 +446,10 @@ extra_css:
                       <li>guitar</li>
                       <li>two ¼ inch TS cables</li>
                       <li>DI box</li>
-                      <li>Two XLR cables</li>
+                      <li>two XLR cables</li>
                       <li>audio interface</li>
                       <li>microphone</li>
+                      <li>amplifier</li>
                     </ul>
                   </div>
                 </div>
