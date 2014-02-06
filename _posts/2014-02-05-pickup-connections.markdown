@@ -3,10 +3,12 @@ layout: default
 title:  "Pickup Connections"
 date:   2014-02-05 18:19:17
 categories: tutorials
+extra_css:
+  - pickup-connections.css
 ---
 
 <section>
-  <article>
+  <article id="pickup-connections">
     <h1>Pickup Connections</h1>
     <h2 class="subtitle">Or, how to Record Guitar<br/>Music to your Computer</h2>
     <div class="clear"></div>
