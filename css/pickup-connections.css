@@ -131,6 +131,10 @@
   padding-right: 10px;
 }
 
+#pickup-connections span.con {
+  font-size: 1.0em;
+}
+
 #pickup-connections .how img {
   display: block;
   margin: 20px auto;

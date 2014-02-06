@@ -379,7 +379,7 @@ extra_css:
               </a>
             </h4>
           </div>
-          <div id="methods-direct-guitar-to-audio-interface-recording-with-direct-box" class="panel-collapse collapse in">
+          <div id="methods-direct-guitar-to-audio-interface-recording-with-direct-box" class="panel-collapse collapse">
             <div class="panel-body">
               <section>
                 <h5>Fast Facts</h5>
@@ -409,12 +409,13 @@ extra_css:
               <section class="how">
                 <h5>How</h5>
                 <p>Plug the guitar into the direct box with a TS cable, and the direct box into the audio interface with an XLR cable.</p>
+                <img src="/images/method5.png" alt="Direct Guitar to Audio Interface Recording with Direct Box" title="Direct Guitar to Audio Interface Recording with Direct Box">
               </section>
               <section class="tips">
                 <h5>Tips</h5>
-                <p class="con"><span class="con">☹</span>Latency. See <a href="#methods-direct-guitar-to-audio-interface-recording">Direct Guitar to Audio Interface Recording</a>.
+                <p class="con"><span class="con">☹</span>Latency. See "Direct Guitar to Audio Interface Recording".
                 </p>
-                <p class="pro"><span class="pro">☺</span>Unlike direct recording without a DI box, this method offers the option to use the <strong>balanced</strong> XLR cable, offering better quality if you need long cables.
+                <p class="pro"><span class="pro">☺</span>Unlike direct recording without a DI box, this method allows you to use the <strong>balanced</strong> XLR cable, offering better quality if you need long cables.
                 </p>
               </section>
             </div>
@@ -428,7 +429,7 @@ extra_css:
               </a>
             </h4>
           </div>
-          <div id="methods-combination-direct-and-indirect-recording" class="panel-collapse collapse">
+          <div id="methods-combination-direct-and-indirect-recording" class="panel-collapse collapse in">
             <div class="panel-body">
               <section>
                 <h5>Fast Facts</h5>
@@ -437,7 +438,7 @@ extra_css:
                     <span class="highlight">Recommended:</span><span class="yes-recommended">☑</span>
                   </div>
                   <div class="use-if">
-                    <span class="highlight">Use if:</span>you want to be able to choose between the two different kinds of recordings
+                    <span class="highlight">Use if:</span><p>you want to be able to choose between the two different kinds of recordings</p>
                   </div>
                   <div class="equipment">
                     <span class="highlight">You will need:</span>
@@ -454,7 +455,8 @@ extra_css:
               </section>
               <section class="how">
                 <h5>How</h5>
-                <p>Here you get the option of recording two different signals in parallel.</p><p>Plug the guitar into the direct box and the direct box into the amplifier, using two TS cables. Then, use an XLR cable to connect the direct box to the audio interface. Finally, place a microphone in front of the amplifier and connect it to the audio interface with another XLR cable.</p><p>Voila! You are recording both through the direct box and through the microphone.</p>
+                <p>Here you can record two different signals in parallel.</p><p>Plug the guitar into the direct box and the direct box into the amplifier, using two TS cables. Then, use an XLR cable to connect the direct box to the audio interface. Finally, place a microphone in front of the amplifier and connect it to the audio interface with another XLR cable.</p><p>Voila! You are recording both through the direct box and through the microphone.</p>
+                <img src="/images/method6.png" alt="Combination Direct and Indirect Recording" title="Combination Direct and Indirect Recording">
               </section>
               <section class="tips">
                 <h5>Tips</h5>
