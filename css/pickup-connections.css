@@ -89,10 +89,15 @@
 }
 
 #pickup-connections #basics  .info {
+  display: block;
+}
+
+#pickup-connections #basics  .pickups {
   margin: 30px 30px 0 150px;
-  height: 200px;
+  padding-top: 30px;
   line-height: 1.5em;
   width: 580px;
+  clear: both;
 }
 
 #pickup-connections #basics  span.icon {
