@@ -11,11 +11,6 @@
   min-height: 200px;
 }
 
-#pickup-connections {
-  width: 1024px;
-  margin: auto;
-}
-
 #pickup-connections #methods {
   clear: both;
 }

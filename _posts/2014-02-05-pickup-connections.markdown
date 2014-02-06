@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Pickup Connections"
+title:  "Pickup Connections (Or, how to Record Guitar Music to your Computer)"
 date:   2014-02-05 18:19:17
 categories: tutorials
 extra_css:

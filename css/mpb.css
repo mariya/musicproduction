@@ -76,10 +76,40 @@ footer .logo {
   font-size: 2em;
 }
 
+footer {
+  clear: both;
+  display: block;
+  padding: 50px 0 20px 0;
+}
+
 h1, h2 {
   font-family: 'quicksandregular', Arial, sans-serif;
 }
 
 h3, h4, h5, h6 {
   font-family: 'Source Sans Pro', sans-serif;
+}
+
+article {
+  width: 1024px;
+  margin: auto;
+}
+
+section#about {
+  border-top: 1px dotted #eee;
+  border-bottom: 1px dotted #eee;
+  margin: 100px auto 0 auto;
+  padding: 100px 0;
+  width: 1024px;
+}
+
+section#about h2 {
+  margin-top: 0;
+}
+
+section#about .avatar {
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-right: 30px;
 }
