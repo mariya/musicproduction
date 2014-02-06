@@ -3,6 +3,7 @@ layout: default
 title:  "Pickup Connections (Or, how to Record Guitar Music to your Computer)"
 date:   2014-02-05 18:19:17
 categories: tutorials
+description: Learn how to record electric guitar or base with or without an amplifier.
 extra_css:
   - pickup-connections.css
 ---
