@@ -57,11 +57,11 @@
 
 #pickup-connections #basics h2 {
   font-size: 100px;
-  -moz-transform: rotate(270deg) translateY(-500px);
+  -moz-transform: rotate(270deg) translateY(-450px);
   -webkit-transform: rotate(270deg) translateY(-450px);
-  -o-transform: rotate(270deg) translateY(-500px);
-  -ms-transform: rotate(270deg) translateY(-500px);
-  transform: rotate(270deg) translateY(-500px);
+  -o-transform: rotate(270deg) translateY(-450px);
+  -ms-transform: rotate(270deg) translateY(-450px);
+  transform: rotate(270deg) translateY(-450px);
 }
 
 #pickup-connections #basics section {
