@@ -168,7 +168,7 @@ extra_css:
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#methods" href="#methods-direct-guitar-to-audio-interface-recording">
+              <a data-toggle="collapse" href="#methods-direct-guitar-to-audio-interface-recording">
                 Direct Guitar to Audio Interface Recording
               </a>
             </h4>
@@ -221,7 +221,7 @@ extra_css:
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#methods" href="#methods-indirect-recording-with-amplifier-and-mic">
+              <a data-toggle="collapse" href="#methods-indirect-recording-with-amplifier-and-mic">
                 Indirect Recording with Amplifier and Mic
               </a>
             </h4>
@@ -274,7 +274,7 @@ extra_css:
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#methods" href="#methods-direct-recording-with-amplifier">
+              <a data-toggle="collapse" href="#methods-direct-recording-with-amplifier">
                 Direct Recording with Amplifier
               </a>
             </h4>
@@ -323,7 +323,7 @@ extra_css:
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#methods" href="#methods-direct-recording-with-amplifier-and-direct-box">
+              <a data-toggle="collapse" href="#methods-direct-recording-with-amplifier-and-direct-box">
                 Direct Recording with Amplifier and Direct Box
               </a>
             </h4>
@@ -374,7 +374,7 @@ extra_css:
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#methods" href="#methods-direct-guitar-to-audio-interface-recording-with-direct-box">
+              <a data-toggle="collapse" href="#methods-direct-guitar-to-audio-interface-recording-with-direct-box">
                 Direct Guitar to Audio Interface Recording with Direct Box
               </a>
             </h4>
@@ -424,12 +424,12 @@ extra_css:
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-toggle="collapse" data-parent="#methods" href="#methods-combination-direct-and-indirect-recording">
+              <a data-toggle="collapse" href="#methods-combination-direct-and-indirect-recording">
                 Combination Direct and Indirect Recording
               </a>
             </h4>
           </div>
-          <div id="methods-combination-direct-and-indirect-recording" class="panel-collapse collapse in">
+          <div id="methods-combination-direct-and-indirect-recording" class="panel-collapse collapse">
             <div class="panel-body">
               <section>
                 <h5>Fast Facts</h5>
