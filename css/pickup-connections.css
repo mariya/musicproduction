@@ -43,11 +43,6 @@
   clear: both;
 }
 
-#pickup-connections h5 {
-  font-weight: bold;
-  font-size: 1.5em;
-}
-
 #pickup-connections .fast-facts .highlight {
   font-weight: bold;
   padding-right: 10px;
@@ -80,4 +75,8 @@
 
 #pickup-connections .use-if p {
   display: inline;
+}
+
+#pickup-connections .techniques section {
+  width: 275px;
 }

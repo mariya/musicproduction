@@ -9,3 +9,17 @@ article > .basics section:first-child {
 article > .basics .content {
   margin-top: -100px;
 }
+
+article .techniques .technique-info {
+  width: 350px;
+}
+
+article .techniques .technique-info,
+article .techniques .how {
+  height: 400px;
+}
+
+article .techniques .about,
+article .techniques .tips {
+  border: 0;
+}

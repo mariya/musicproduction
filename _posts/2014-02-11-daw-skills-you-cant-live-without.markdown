@@ -98,59 +98,33 @@ extra_css:
     </section>
     <section class="techniques">
       <h2>
-        Hook it All Up
-        <small>Or, Recording Methods</small>
+        The Techniques
+        <small>Digital Audio Workstation Basics</small>
       </h2>
       <div class="panel-group" id="techniques-accordion">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-toggle="collapse" href="#methods-direct-guitar-to-audio-interface-recording">
-                Direct Guitar to Audio Interface Recording
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
+                Trimming
               </a>
             </h4>
           </div>
-          <div id="methods-direct-guitar-to-audio-interface-recording" class="panel-collapse collapse">
+          <div id="techniques-trimming" class="panel-collapse collapse in">
             <div class="panel-body">
-              <section>
-                <h5>Fast Facts</h5>
-                <div class="fast-facts">
-                  <div class="recommended">
-                    <span class="highlight">Recommended:</span><span class="not-recommended">☓</span>
-                  </div>
-                  <div class="use-if">
-                    <span class="highlight">Use if:</span>
-                    <ul>
-                      <li>you’ve got an audio interface with an instrument input</li>
-                      <li>you do not have an amplifier</li>
-                    </ul>
-                  </div>
-                  <div class="equipment">
-                    <span class="highlight">You will need:</span>
-                    <ul>
-                      <li>guitar</li>
-                      <li>audio interface with an instrument input</li>
-                      <li>¼ inch TS cable</li>
-                    </ul>
-                  </div>
-                </div>
+              <section class="technique-info">
+                <section class="about">
+                  <h5>What</h5>
+                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
+                </section>
+                <section class="tips">
+                  <h5>Tips</h5>
+                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
+                </section>
               </section>
               <section class="how">
                 <h5>How</h5>
-                <p>In this simple setup, you plug the guitar directly into the audio interface’s instrument input with a TS cable.</p>
-                <img src="/images/method1.png" alt="Direct Guitar to Audio Interface Recording" title="Direct Guitar to Audio Interface Recording">
-              </section>
-              <section class="tips">
-                <h5>Tips</h5>
-                <p class="warning"><span class="warning">⚠</span>This method is only possible if your audio interface one of the following inputs:
-                  <ul>
-                    <li>Instrument input</li>
-                    <li>Direct input</li>
-                    <li>Hi-Z input</li>
-                    <li>High impedance input</li>
-                  </ul>
-                </p>
-                <p class="con"><span class="con">☹</span>Latency. With this setup, the guitar can only be heard through the computer’s speakers. So there’s going to be a slight delay before you hear what you play. Distracting!</p>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
               </section>
             </div>
           </div>
@@ -158,15 +132,15 @@ extra_css:
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-toggle="collapse" href="#methods-indirect-recording-with-amplifier-and-mic">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-indirect-recording-with-amplifier-and-mic">
                 Indirect Recording with Amplifier and Mic
               </a>
             </h4>
           </div>
-          <div id="methods-indirect-recording-with-amplifier-and-mic" class="panel-collapse collapse">
+          <div id="techniques-indirect-recording-with-amplifier-and-mic" class="panel-collapse collapse">
             <div class="panel-body">
               <section>
-                <h5>Fast Facts</h5>
+                <h5>What</h5>
                 <div class="fast-facts">
                   <div class="recommended">
                     <span class="highlight">Recommended:</span><span class="warning">⚠</span>
@@ -211,15 +185,15 @@ extra_css:
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-toggle="collapse" href="#methods-direct-recording-with-amplifier">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-direct-recording-with-amplifier">
                 Direct Recording with Amplifier
               </a>
             </h4>
           </div>
-          <div id="methods-direct-recording-with-amplifier" class="panel-collapse collapse in">
+          <div id="techniques-direct-recording-with-amplifier" class="panel-collapse collapse in">
             <div class="panel-body">
               <section>
-                <h5>Fast Facts</h5>
+                <h5>What</h5>
                 <div class="fast-facts">
                   <div class="recommended">
                     <span class="highlight">Recommended:</span><span class="yes-recommended">☑</span>
@@ -260,15 +234,15 @@ extra_css:
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-toggle="collapse" href="#methods-direct-recording-with-amplifier-and-direct-box">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-direct-recording-with-amplifier-and-direct-box">
                 Direct Recording with Amplifier and Direct Box
               </a>
             </h4>
           </div>
-          <div id="methods-direct-recording-with-amplifier-and-direct-box" class="panel-collapse collapse">
+          <div id="techniques-direct-recording-with-amplifier-and-direct-box" class="panel-collapse collapse">
             <div class="panel-body">
               <section>
-                <h5>Fast Facts</h5>
+                <h5>What</h5>
                 <div class="fast-facts">
                   <div class="recommended">
                     <span class="highlight">Recommended:</span><span class="yes-recommended">☑</span>
@@ -311,15 +285,15 @@ extra_css:
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-toggle="collapse" href="#methods-direct-guitar-to-audio-interface-recording-with-direct-box">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-direct-guitar-to-audio-interface-recording-with-direct-box">
                 Direct Guitar to Audio Interface Recording with Direct Box
               </a>
             </h4>
           </div>
-          <div id="methods-direct-guitar-to-audio-interface-recording-with-direct-box" class="panel-collapse collapse">
+          <div id="techniques-direct-guitar-to-audio-interface-recording-with-direct-box" class="panel-collapse collapse">
             <div class="panel-body">
               <section>
-                <h5>Fast Facts</h5>
+                <h5>What</h5>
                 <div class="fast-facts">
                   <div class="recommended">
                     <span class="highlight">Recommended:</span><span class="not-recommended">☓</span>
@@ -361,15 +335,15 @@ extra_css:
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-toggle="collapse" href="#methods-combination-direct-and-indirect-recording">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-combination-direct-and-indirect-recording">
                 Combination Direct and Indirect Recording
               </a>
             </h4>
           </div>
-          <div id="methods-combination-direct-and-indirect-recording" class="panel-collapse collapse">
+          <div id="techniques-combination-direct-and-indirect-recording" class="panel-collapse collapse">
             <div class="panel-body">
               <section>
-                <h5>Fast Facts</h5>
+                <h5>What</h5>
                 <div class="fast-facts">
                   <div class="recommended">
                     <span class="highlight">Recommended:</span><span class="yes-recommended">☑</span>
