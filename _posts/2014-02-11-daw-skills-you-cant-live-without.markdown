@@ -84,8 +84,9 @@ extra_css:
               </div>
               <div id="about-tutorial-content" class="panel-collapse collapse in">
                 <div class="panel-body">
-                  <p>This is my second assignment for the Introduction to Music Production Course.</p>
-                  <p>I’m new to music production, so starting out with an advanced DAW like Ableton Live was a challenge. It took me hours to navigate from session view to arrangement view and actually start playing with tracks. It seems I’ve largely figured out the basics, though, and here they are.</p>
+                  <p>This is my second assignment for the <a href="https://www.coursera.org/course/musicproduction">Introduction to Music Production Course.</a></p>
+                  <p>I’m new to music production, so starting out with an advanced DAW like Ableton Live was a challenge. It took me hours to navigate from session view to arrangement view and actually start playing with tracks. It seems I’ve figured out the basics, though, and here they are.</p>
+                  <p>Thank you so much for reading and watching!</p>
                 </div>
               </div>
             </div>
@@ -95,12 +96,12 @@ extra_css:
       </div>
       <div class="clear"></div>
     </section>
-    <section id="methods">
+    <section class="techniques">
       <h2>
         Hook it All Up
         <small>Or, Recording Methods</small>
       </h2>
-      <div class="panel-group" id="methods">
+      <div class="panel-group" id="techniques-accordion">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">

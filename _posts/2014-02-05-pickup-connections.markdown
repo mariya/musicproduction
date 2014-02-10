@@ -160,12 +160,12 @@ extra_css:
       </div>
       <div class="clear"></div>
     </section>
-    <section id="methods">
+    <section class="techniques">
       <h2>
         Hook it All Up
         <small>Or, Recording Methods</small>
       </h2>
-      <div class="panel-group" id="methods">
+      <div class="panel-group" id="techniques-accordion">
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">

@@ -180,3 +180,33 @@ article > .basics p.info {
 article > .basics p.info span.icon {
   font-size: 3em;
 }
+
+article > .techniques {
+  clear: both;
+}
+
+article > .techniques h2 {
+  font-size: 3.25em;
+  float: left;
+  margin: 50px 0;
+  clear: both;
+}
+
+article > .techniques h2.subtitle {
+  float: left;
+  margin-left: 10px;
+}
+
+article > .techniques > #techniques-accordion {
+  clear: both;
+}
+
+article > .techniques section {
+  border: 1px solid #eee;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+  padding: 15px;
+  width: 275px;
+  float: left;
+  margin-right: 15px;
+}

@@ -11,31 +11,12 @@
   min-height: 200px;
 }
 
-#pickup-connections #methods {
-  clear: both;
-}
-
-#pickup-connections #methods section {
-  border: 1px solid #eee;
-  -webkit-border-radius: 5px 5px 5px 5px;
-  border-radius: 5px 5px 5px 5px;
-  padding: 15px;
-  width: 275px;
-  float: left;
-  margin-right: 15px;
-}
-
-#pickup-connections #methods .how {
+#pickup-connections #techniques-accordion .how {
   width: 410px;
 }
 
-#pickup-connections #methods .tips {
+#pickup-connections #techniques-accordion .tips {
   margin-right: 0;
-}
-
-#pickup-connections h2.subtitle {
-  float: left;
-  margin-left: 10px;
 }
 
 #pickup-connections #basics section {
@@ -60,12 +41,6 @@
   line-height: 1.5em;
   width: 580px;
   clear: both;
-}
-
-#pickup-connections #methods h2 {
-  font-size: 3.25em;
-  float: left;
-  margin: 50px 0;
 }
 
 #pickup-connections h5 {
