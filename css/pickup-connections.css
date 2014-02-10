@@ -33,46 +33,16 @@
   margin-right: 0;
 }
 
-#pickup-connections h1 {
-  font-size: 4.25em;
-  float: left;
-}
-
 #pickup-connections h2.subtitle {
-  font-size: 2.25em;
   float: left;
   margin-left: 10px;
-  text-align: center;
-  color: #999;
-}
-
-#pickup-connections #basics {
-  background-color: #eee;
-  clear: both;
-  margin-top: 80px;
-  -webkit-border-radius: 10px 10px 10px 10px;
-  border-radius: 10px 10px 10px 10px;
-  min-height: 600px;
-}
-
-#pickup-connections #basics h2 {
-  font-size: 100px;
-  -moz-transform: rotate(270deg) translateY(-450px);
-  -webkit-transform: rotate(270deg) translateY(-450px);
-  -o-transform: rotate(270deg) translateY(-450px);
-  -ms-transform: rotate(270deg) translateY(-450px);
-  transform: rotate(270deg) translateY(-450px);
 }
 
 #pickup-connections #basics section {
-  float: left;
-  height: 400px;
-  margin-right: 30px;
   width: 200px;
 }
 
-#pickup-connections #basics #equipment {
-  padding-left: 150px;
+#pickup-connections #basics section:first-child {
   width: 400px;
 }
 
@@ -84,24 +54,12 @@
   width: 250px;
 }
 
-#pickup-connections #basics  .content {
-  margin-top: -80px;
-}
-
-#pickup-connections #basics  .info {
-  display: block;
-}
-
 #pickup-connections #basics  .pickups {
   margin: 30px 30px 0 150px;
   padding-top: 30px;
   line-height: 1.5em;
   width: 580px;
   clear: both;
-}
-
-#pickup-connections #basics  span.icon {
-  font-size: 3em;
 }
 
 #pickup-connections #methods h2 {

@@ -1,162 +1,97 @@
 ---
 layout: default
-title:  "Pickup Connections (Or, how to Record Guitar Music to your Computer)"
-date:   2014-02-05 18:19:17
+title:  "DAW Skills You Can't Live Without (A Demonstration Using Ableton Live)"
+date:   2014-02-11
 categories: tutorials
-description: Learn how to record electric guitar or bass with or without an amplifier.
+description: Learn the basics of a Digital Audio Workstation (DAW).
 extra_css:
-  - pickup-connections.css
+  - daw-basics.css
 ---
-
 <section>
-  <article id="pickup-connections">
-    <h1>Pickup Connections</h1>
-    <h2 class="subtitle">Or, how to Record Guitar<br/>Music to your Computer</h2>
+  <article id="daw-skills">
+    <h1>DAW Skills You Can't Live Without</h1>
+    <h2 class="subtitle">A Demonstration Using Ableton Live</h2>
     <div class="clear"></div>
     <section id="basics" class="basics">
       <h2>The Basics</h2>
       <div class="content">
-        <section id="equipment">
-          <h3>What do I need?</h3>
-          <nav>
-            <ul class="nav nav-tabs">
-              <li class="active"><a href="#equipment-required" data-toggle="tab">Must-Haves</a></li>
-              <li><a href="#equipment-optional" data-toggle="tab">Optional</a></li>
-            </ul>
-          </nav>
-          <div class="tab-content">
-            <div class="tab-pane fade in active" id="equipment-required">
-              <ul>
-                <li>an electric guitar or electric bass guitar</li>
-                <li>an <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.junodownload.com%2Fplus%2Fbest-audio-interfaces-for-home-studios%2F&sa=D&sntz=1&usg=AFQjCNHhkLSBsNCmjPb_IiFb9NRVe7syeA">audio interface</a></li>
-                <li>a computer</li>
-                <li>¼ inch TS cable(s)</li>
-              </ul>
-            </div>
-            <div class="tab-pane fade" id="equipment-optional">
-              <ul>
-                <li>an amplifier</li>
-                <li>a microphone</li>
-                <li>XLR cable(s)</li>
-                <li>DI Box (Direct Box)</li>
-                <li>a DAW (digital audio workstation)</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-        <section id="faq">
-          <h3>FAQ</h3>
-          <div class="panel-group" id="faq">
+        <section>
+          <h3>How do I start?</h3>
+          <div class="panel-group" id="pre-requisites">
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#faq" href="#faq-pickup">
-                    What is a pickup?
+                  <a data-toggle="collapse" data-parent="#pre-requisites" href="#pre-requisites-list">
+                    Pre-Requisites
                   </a>
                 </h4>
               </div>
-              <div id="faq-pickup" class="panel-collapse collapse in">
+              <div id="pre-requisites-list" class="panel-collapse collapse in">
                 <div class="panel-body">
-                  <p>A pickup on your guitar <strong>captures</strong> the vibrations of your guitar strings and <strong>converts</strong> them to an electrical signal. This is an example of a <strong>transducer</strong>, which converts one form of energy into another. Specifically, since the guitar sound is an input to your system, it is an <strong>input transducer</strong>.</p>
-                </div>
-              </div>
-            </div>
-            <div class="panel panel-default">
-              <div class="panel-heading">
-                <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#faq" href="#faq-audio-interface">
-                    What is an audio interface?
-                  </a>
-                </h4>
-              </div>
-              <div id="faq-audio-interface" class="panel-collapse collapse">
-                <div class="panel-body">
-                  <p>Computers don’t understand electrical signals. An audio interface <strong>translates</strong> them into <strong>binary signals</strong>.</p>
-                  <p>Before recording guitar, you should be familiar with your <strong>audio interface</strong>, its <strong>gain settings</strong> and how to set <strong>levels</strong>.</p>
+                  <ol>
+                    <li>Install <a href="https://www.ableton.com/">Ableton Live</a> on your computer</li>
+                    <li>Create a couple tracks in <a href="https://www.ableton.com/en/articles/getting-started-5-working-session-view/">session view</a></li>
+                    <li>Go into <a href="https://www.ableton.com/en/articles/getting-started-7-session-arrangement-view/">arrangement view</a> and <a href="http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-217833/1">download</a> or <a href="/tutorials/pickup-connections">record</a> some audio</li>
+                  </ol>
                 </div>
               </div>
             </div>
           </div>
         </section>
-        <section id="connection">
-          <h3>
-            Connecting a Guitar
-            <small class="info">...or a mic!</small>
-          </h3>
-          <div class="panel-group" id="connection">
+        <section>
+          <h3>General Tips</h3>
+          <div class="panel-group" id="general-tips">
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#connection" href="#connection-gain">
-                    1. Turn down gain
+                  <a data-toggle="collapse" data-parent="#general-tips" href="#general-tips-practice">
+                    Practice makes perfect
                   </a>
                 </h4>
               </div>
-              <div id="connection-gain" class="panel-collapse collapse ">
+              <div id="general-tips-practice" class="panel-collapse collapse in">
                 <div class="panel-body">
-                  <p>Turn the input gain/trim knob(s) all the way down on the audio interface and amplifier.</p>
+                  <p>Before editing, think about whether you can perform your track any better. Practice and an additional take or two can save you hours of editing.</p>
                 </div>
               </div>
             </div>
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#connection" href="#connection-speakers">
-                    2. Turn down speakers
+                  <a data-toggle="collapse" data-parent="#general-tips" href="#general-tips-destruction">
+                    Death and (non) destruction
                   </a>
                 </h4>
               </div>
-              <div id="connection-speakers" class="panel-collapse collapse">
+              <div id="general-tips-destruction" class="panel-collapse collapse">
                 <div class="panel-body">
-                  <p>You’ve only got two ears, so avoid unpleasant surprise sounds!</p>
-                </div>
-              </div>
-            </div>
-            <div class="panel panel-default">
-              <div class="panel-heading">
-                <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#connection" href="#connection-gear">
-                    3. Connect the gear
-                  </a>
-                </h4>
-              </div>
-              <div id="connection-gear" class="panel-collapse collapse">
-                <div class="panel-body">
-                  <p>Plug in your guitar and/or microphone.</p>
-                </div>
-              </div>
-            </div>
-            <div class="panel panel-default">
-              <div class="panel-heading">
-                <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#connection" href="#connection-levels">
-                    4. Adjust the levels
-                  </a>
-                </h4>
-              </div>
-              <div id="connection-levels" class="panel-collapse collapse">
-                <div class="panel-body">
-                  <p>Play a sample and adjust the levels.</p>
-                </div>
-              </div>
-            </div>
-            <div class="panel panel-default">
-              <div class="panel-heading">
-                <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#connection" href="#connection-disconnect">
-                    5. Prepare to disconnect your gear
-                  </a>
-                </h4>
-              </div>
-              <div id="connection-disconnect" class="panel-collapse collapse">
-                <div class="panel-body">
-                  <p>Also turn off the gain and speakers before disconnecting gear.</p>
+                  <p>Some of the techniques outlined here are <strong>non-destructive</strong>. That means you will modify <strong>references</strong></strong> to your audio files, but not the audio files themselves. Other techniques are <strong>destructive</strong>, modifying, deleting or creating new audio files. Learn which is which!</p>
                 </div>
               </div>
             </div>
           </div>
         </section>
-        <p class="info pickups"><span class="icon">★</span>Guitars with <strong>passive pickups</strong> tend to have a low level, so the input gain may need to be higher than for a microphone. If the guitar has <strong>active pickups</strong>, however, then its level may be high.</p>
+        <section>
+          <h3>About this Tutorial</h3>
+          <div class="panel-group" id="about-tutorial">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#about-tutorial" href="#about-tutorial-content">
+                    About this tutorial
+                  </a>
+                </h4>
+              </div>
+              <div id="about-tutorial-content" class="panel-collapse collapse in">
+                <div class="panel-body">
+                  <p>This is my second assignment for the Introduction to Music Production Course.</p>
+                  <p>I’m new to music production, so starting out with an advanced DAW like Ableton Live was a challenge. It took me hours to navigate from session view to arrangement view and actually start playing with tracks. It seems I’ve largely figured out the basics, though, and here they are.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <p class="info"><span class="icon">★</span>The included screencasts are also my first-ever YouTube videos. If I know little about audio, I know truly jack squat about video. Any feedback on tools, video quality etc, is very much appreciated.</p>
       </div>
       <div class="clear"></div>
     </section>

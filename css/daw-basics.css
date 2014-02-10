@@ -1,0 +1,8 @@
+article > .basics section {
+  width: 250px;
+}
+
+article > .basics section:first-child {
+  width: 425px;
+}
+
