@@ -113,3 +113,9 @@ section#about .avatar {
   float: left;
   margin-right: 30px;
 }
+
+section#about .avatar img {
+  -webkit-border-radius: 75px;
+  -moz-border-radius: 75px;
+  border-radius: 75px;
+}
