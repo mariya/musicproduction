@@ -129,6 +129,230 @@ extra_css:
             </div>
           </div>
         </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-splitting">
+                Splitting
+              </a>
+            </h4>
+          </div>
+          <div id="techniques-splitting" class="panel-collapse collapse">
+            <div class="panel-body">
+              <section class="technique-info">
+                <section class="about">
+                  <h5>What</h5>
+                  <p>Splitting a region <strong>separates</strong> it into two regions that you can move and manipulate separately.</p>
+                </section>
+                <section class="tips">
+                  <h5>Tips</h5>
+                  <p>The shortcut for splitting is<br>CTRL+E / ⌘+E</p>
+                </section>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/Il0p8GjKAFU" frameborder="0" allowfullscreen></iframe>
+              </section>
+            </div>
+          </div>
+        </div>
+<!--
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
+                Trimming
+              </a>
+            </h4>
+          </div>
+          <div id="techniques-trimming" class="panel-collapse collapse in">
+            <div class="panel-body">
+              <section class="technique-info">
+                <section class="about">
+                  <h5>What</h5>
+                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
+                </section>
+                <section class="tips">
+                  <h5>Tips</h5>
+                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
+                </section>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
+              </section>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
+                Trimming
+              </a>
+            </h4>
+          </div>
+          <div id="techniques-trimming" class="panel-collapse collapse in">
+            <div class="panel-body">
+              <section class="technique-info">
+                <section class="about">
+                  <h5>What</h5>
+                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
+                </section>
+                <section class="tips">
+                  <h5>Tips</h5>
+                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
+                </section>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
+              </section>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
+                Trimming
+              </a>
+            </h4>
+          </div>
+          <div id="techniques-trimming" class="panel-collapse collapse in">
+            <div class="panel-body">
+              <section class="technique-info">
+                <section class="about">
+                  <h5>What</h5>
+                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
+                </section>
+                <section class="tips">
+                  <h5>Tips</h5>
+                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
+                </section>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
+              </section>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
+                Trimming
+              </a>
+            </h4>
+          </div>
+          <div id="techniques-trimming" class="panel-collapse collapse in">
+            <div class="panel-body">
+              <section class="technique-info">
+                <section class="about">
+                  <h5>What</h5>
+                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
+                </section>
+                <section class="tips">
+                  <h5>Tips</h5>
+                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
+                </section>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
+              </section>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
+                Trimming
+              </a>
+            </h4>
+          </div>
+          <div id="techniques-trimming" class="panel-collapse collapse in">
+            <div class="panel-body">
+              <section class="technique-info">
+                <section class="about">
+                  <h5>What</h5>
+                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
+                </section>
+                <section class="tips">
+                  <h5>Tips</h5>
+                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
+                </section>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
+              </section>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
+                Trimming
+              </a>
+            </h4>
+          </div>
+          <div id="techniques-trimming" class="panel-collapse collapse in">
+            <div class="panel-body">
+              <section class="technique-info">
+                <section class="about">
+                  <h5>What</h5>
+                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
+                </section>
+                <section class="tips">
+                  <h5>Tips</h5>
+                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
+                </section>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
+              </section>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
+                Trimming
+              </a>
+            </h4>
+          </div>
+          <div id="techniques-trimming" class="panel-collapse collapse in">
+            <div class="panel-body">
+              <section class="technique-info">
+                <section class="about">
+                  <h5>What</h5>
+                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
+                </section>
+                <section class="tips">
+                  <h5>Tips</h5>
+                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
+                </section>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
+              </section>
+            </div>
+          </div>
+        </div>
+        -->
       </div>
     </section>
   </article>
