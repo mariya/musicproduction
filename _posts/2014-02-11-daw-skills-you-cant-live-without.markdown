@@ -191,7 +191,7 @@ extra_css:
               </a>
             </h4>
           </div>
-          <div id="techniques-consolidate" class="panel-collapse collapse in">
+          <div id="techniques-consolidate" class="panel-collapse collapse">
             <div class="panel-body">
               <section class="technique-info">
                 <section class="about">
@@ -210,63 +210,67 @@ extra_css:
             </div>
           </div>
         </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-naming-coloring">
+                Naming and Coloring Regions
+              </a>
+            </h4>
+          </div>
+          <div id="techniques-naming-coloring" class="panel-collapse collapse">
+            <div class="panel-body">
+              <section class="technique-info">
+                <section class="about">
+                  <h5>What</h5>
+                  <p>It’s important to organize your regions with name and color conventions that work for you. In this video, I use green to show the track containing the best take.</p>
+                </section>
+                <section class="tips">
+                  <h5>Tips</h5>
+                  <ul>
+                    <li>name the region after the instrument and take number</li>
+                    <li>color-code the region according to how good the performance is</li>
+                  </ul>
+                </section>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/UgInBLJsGO4" frameborder="0" allowfullscreen></iframe>
+              </section>
+            </div>
+          </div>
+        </div>   
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-grid">
+                Grid
+              </a>
+            </h4>
+          </div>
+          <div id="techniques-grid" class="panel-collapse collapse">
+            <div class="panel-body">
+              <section class="technique-info">
+                <section class="about">
+                  <h5>What</h5>
+                  <p>Enabling the <strong>grid</strong> snaps your regions “to the beat”. You can change the grid to different <strong>resolutions</strong>, for example, ⅛ note or ¼ note, or disable it altogether.</p>
+                </section>
+                <section class="tips">
+                  <h5>Tips</h5>
+                  <ul>
+                    <li>Keep the grid on by default. Toggle it off to nudge your region to a specific location off the beat.</li>
+                    <li>Disable snap to grid with CTRL+4 / ⌘+4</li>
+                  </ul>
+                </section>
+              </section>
+              <section class="how">
+                <h5>How</h5>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/fYyyMOXhqpE" frameborder="0" allowfullscreen></iframe>
+              </section>
+            </div>
+          </div>
+        </div>
         <!--
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4 class="panel-title">
-              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
-                Trimming
-              </a>
-            </h4>
-          </div>
-          <div id="techniques-trimming" class="panel-collapse collapse in">
-            <div class="panel-body">
-              <section class="technique-info">
-                <section class="about">
-                  <h5>What</h5>
-                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
-                </section>
-                <section class="tips">
-                  <h5>Tips</h5>
-                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
-                </section>
-              </section>
-              <section class="how">
-                <h5>How</h5>
-                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
-              </section>
-            </div>
-          </div>
-        </div>
-
-        <div class="panel panel-default">
-          <div class="panel-heading">
-            <h4 class="panel-title">
-              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
-                Trimming
-              </a>
-            </h4>
-          </div>
-          <div id="techniques-trimming" class="panel-collapse collapse in">
-            <div class="panel-body">
-              <section class="technique-info">
-                <section class="about">
-                  <h5>What</h5>
-                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
-                </section>
-                <section class="tips">
-                  <h5>Tips</h5>
-                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
-                </section>
-              </section>
-              <section class="how">
-                <h5>How</h5>
-                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
-              </section>
-            </div>
-          </div>
-        </div>
-
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
