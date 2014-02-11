@@ -182,7 +182,7 @@ extra_css:
               </section>
             </div>
           </div>
-        </div>   
+        </div>
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
@@ -239,7 +239,7 @@ extra_css:
               </section>
             </div>
           </div>
-        </div>   
+        </div>
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
@@ -332,7 +332,7 @@ extra_css:
               </a>
             </h4>
           </div>
-          <div id="techniques-trimming" class="panel-collapse collapse">
+          <div id="techniques-zoom" class="panel-collapse collapse">
             <div class="panel-body">
               <section class="technique-info">
                 <section class="about">
