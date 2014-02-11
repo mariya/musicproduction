@@ -119,7 +119,7 @@ extra_css:
                 </section>
                 <section class="tips">
                   <h5>Tips</h5>
-                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
+                  <p>A region is a "window" into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
                 </section>
               </section>
               <section class="how">
@@ -253,7 +253,7 @@ extra_css:
               <section class="technique-info">
                 <section class="about">
                   <h5>What</h5>
-                  <p>Enabling the <strong>grid</strong> snaps your regions “to the beat”. You can change the grid to different <strong>resolutions</strong>, for example, ⅛ note or ¼ note, or disable it altogether.</p>
+                  <p>Enabling the <strong>grid</strong> snaps your regions "to the beat". You can change the grid to different <strong>resolutions</strong>, for example, ⅛ note or ¼ note, or disable it altogether.</p>
                 </section>
                 <section class="tips">
                   <h5>Tips</h5>
@@ -270,91 +270,87 @@ extra_css:
             </div>
           </div>
         </div>
-        <!--
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
-                Trimming
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-looping">
+                Looping
               </a>
             </h4>
           </div>
-          <div id="techniques-trimming" class="panel-collapse collapse in">
+          <div id="techniques-looping" class="panel-collapse collapse">
             <div class="panel-body">
               <section class="technique-info">
                 <section class="about">
                   <h5>What</h5>
-                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
+                  <p>It can be useful to <strong>cycle</strong> a small part of your track, playing it over and over again while you tweak. In this video, we select a region, loop it, resize the looping area, and then disable the looping.</p>
                 </section>
                 <section class="tips">
                   <h5>Tips</h5>
-                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
+                  <p>loop a selected area by hitting<br>CTRL+L / ⌘+L</p>
                 </section>
               </section>
               <section class="how">
                 <h5>How</h5>
-                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/WvfvHZRhZQA" frameborder="0" allowfullscreen></iframe>
               </section>
             </div>
           </div>
         </div>
-
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
-                Trimming
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-locators">
+                Locators
               </a>
             </h4>
           </div>
-          <div id="techniques-trimming" class="panel-collapse collapse in">
+          <div id="techniques-locators" class="panel-collapse collapse">
             <div class="panel-body">
               <section class="technique-info">
                 <section class="about">
                   <h5>What</h5>
-                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
+                  <p>You can use locators or <strong>markers</strong> to "bookmark" different parts of your song. Here’s how to add and name them.</p>
                 </section>
                 <section class="tips">
                   <h5>Tips</h5>
-                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
+                  <p>It can be useful to add locators for the major parts of your song like Intro, Verse, etc.</p>
                 </section>
               </section>
               <section class="how">
                 <h5>How</h5>
-                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/J1K_gGmAH4g" frameborder="0" allowfullscreen></iframe>
               </section>
             </div>
           </div>
         </div>
-
         <div class="panel panel-default">
           <div class="panel-heading">
             <h4 class="panel-title">
-              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-trimming">
-                Trimming
+              <a data-parent="#techniques-accordion" data-toggle="collapse" href="#techniques-zoom">
+                Zoom
               </a>
             </h4>
           </div>
-          <div id="techniques-trimming" class="panel-collapse collapse in">
+          <div id="techniques-trimming" class="panel-collapse collapse">
             <div class="panel-body">
               <section class="technique-info">
                 <section class="about">
                   <h5>What</h5>
-                  <p>A <strong>region</strong> defines the <strong>bounds</strong> of your audio clip within your song. You can create a region by <strong>trimming</strong>.</p>
+                  <p>In Live, zooming is easy - hit the <strong>plus key</strong> for zoom in and the <strong>minus</strong> key for zoom out.</p>
                 </section>
                 <section class="tips">
                   <h5>Tips</h5>
-                  <p>A region is a “window” into an audio file. Manipulating the region won’t affect the file itself. This technique is <strong>non-destructive</strong>.</p>
+                  <p>First select the region you want to magnify, then zoom in.</p>
                 </section>
               </section>
               <section class="how">
                 <h5>How</h5>
-                <iframe width="560" height="315" src="//www.youtube.com/embed/2j16BiUo2RM" frameborder="0" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="//www.youtube.com/embed/VjmLntBUuvs" frameborder="0" allowfullscreen></iframe>
               </section>
             </div>
           </div>
         </div>
-        -->
       </div>
     </section>
   </article>
