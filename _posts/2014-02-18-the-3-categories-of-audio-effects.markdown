@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "The 3 Categories of Audio Effectz"
+title:  "The 3 Categories of Audio Effects"
 date:   2014-02-11
 categories: tutorials
 description: An overview of the three categories of common audio effects.
