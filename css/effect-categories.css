@@ -1,0 +1,9 @@
+section.categories {
+  margin-top: 30px;
+}
+
+section.categories .panel-body > section {
+  width: 450px;
+  float: left;
+  margin-right: 20px;
+}
